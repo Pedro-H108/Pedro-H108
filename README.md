@@ -5,12 +5,15 @@ I'm a Front-End developer passionate about creating attractive and functional in
 
 ## Technical Skills
 
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- Sass
+- SASS
 - Bootstrap
 - React
+- Git
+- C
+- Office pack
 
 <!--## Projects
 
