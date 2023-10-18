@@ -25,7 +25,7 @@ Here are some of my most recent projects:
 You can find me on the following platforms:
 
 - [GitHub](https://github.com/Pedro-H108)
-- [LinkedIn](www.linkedin.com/in/pedro-souza-0241ab284)
+- LinkedIn: www.linkedin.com/in/pedro-souza-0241ab284
 - Email: pedrohenrique1008@hotmail.com
 
 Feel free to explore my projects and get in touch if you'd like to collaborate or just chat about web development. Let's create the next amazing experience together!
