@@ -11,6 +11,8 @@ I'm a Front-End developer passionate about creating attractive and functional in
 - SASS
 - Bootstrap
 - React
+- PHP
+- MySQL
 - Git
 - C
 - Office pack
