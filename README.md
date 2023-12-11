@@ -17,11 +17,12 @@ I'm a Front-End developer passionate about creating attractive and functional in
 - C
 - Office pack
 
-<!--## Projects
+
 
 Here are some of my most recent projects:
 
-- [Project 1](link-to-project-1): Brief description of project 1.
+- [Pick Key Game](https://github.com/Pedro-H108/Pick-Key-Game): Game to work on selective attention.
+<!--## Projects
 - [Project 2](link-to-project-2): Brief description of project 2.
 - [Project 3](link-to-project-3): Brief description of project 3.
 -->
