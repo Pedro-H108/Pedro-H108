@@ -8,11 +8,11 @@ I am a fullstack developer passionate about creating clean and optimized code so
 - Java
 - PHP
 - JavaScript
+- MySQL
 - HTML
 - CSS
 - SASS
 - Bootstrap
-- MySQL
 - Git
 - C
 - Office pack
@@ -23,9 +23,7 @@ Here are some of my most recent projects:
 
 - [Pick Key Game](https://github.com/Pedro-H108/Pick-Key-Game): Game to work on selective attention.
 - [TADS Bank](https://github.com/Pedro-H108/Trabalho-Final-LPOO-UFPR): Banking system with main features of a bank.
-<!--## Projects
-- [Project 3](link-to-project-3): Brief description of project 3.
--->
+- [Landing Page Master](https://github.com/Pedro-H108/Projeto-Master): Small project created to practice skills with Bootstrap.
 ## Contact
 
 You can find me on the following platforms:
