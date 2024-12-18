@@ -21,6 +21,8 @@ I am a fullstack developer passionate about creating clean and optimized code so
 
 Here are some of my most recent projects:
 
+- [ManuTADS Front-End](https://github.com/Pedro-H108/FED-WEB2-UFPR-Trabalho-Final): Web system for a computer maintenance company.
+- [ManuTADS Back-End](https://github.com/Pedro-H108/SRV-WEB2-UFPR-Trabalho-Final): Web system for a computer maintenance company. 
 - [TADS Bank](https://github.com/Pedro-H108/Trabalho-Final-LPOO-UFPR): Banking system with main features of a bank.
 - [Pick Key Game](https://github.com/Pedro-H108/Pick-Key-Game): Game to work on selective attention.
 - [Landing Page Master](https://github.com/Pedro-H108/Projeto-Master): Small project created to practice skills with Bootstrap.
